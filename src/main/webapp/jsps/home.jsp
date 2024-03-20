@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to Landmark Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
+	Special testimony and thanksgiving session coming up on Sunday May 05, 2024.
+	Landmark Technology is a an ideal online training  platform for DevOps, Plaform, and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
@@ -22,7 +22,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
-		Toronto, Ontario, Canada
+		Houston, Texas, United States
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
@@ -34,7 +34,7 @@
 <hr>
 <hr>
 <p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2024 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
